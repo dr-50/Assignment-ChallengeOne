@@ -1,4 +1,4 @@
-# Assignment-ChallengeOne
+# Horiseon - Assignment-ChallengeOne
 
 ## Purpose
 A website that informs of Search Engine Optimization.
