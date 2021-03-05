@@ -15,7 +15,7 @@ https://dr-50.github.io/Assignment-ChallengeOne/
 
 ## Image of Website
 
-![WebPageImage] (https://github.com/dr-50/Horiseon/blob/main/assets/images/Horiseon-WebPage.PNG)
+![WebPageImage] https://github.com/dr-50/Horiseon/blob/main/assets/images/Horiseon-WebPage.PNG
 
 ## Contribution
 
