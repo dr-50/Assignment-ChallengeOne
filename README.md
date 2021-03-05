@@ -1,14 +1,18 @@
-# Horiseon - Assignment-ChallengeOne
+# Horiseon
 
 ## Purpose
+
 A website that informs of Search Engine Optimization.
 
 ## Built with
-* HTML
-* CSS
+
+- HTML
+- CSS
 
 ## Website
+
 https://dr-50.github.io/Assignment-ChallengeOne/
 
-##  Contribution
+## Contribution
+
 Made by Devon Ross
