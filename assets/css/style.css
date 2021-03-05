@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Start of Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,10 @@ a {
 p {
     font-size: 16px;
 }
+/* End Of Header */
 
+
+/* Start of hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +78,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* End of Hero */
 
+/* Start of Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,26 +139,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of Benefit */
 
+/* Start of Search Engine Optimization */
 .search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -165,29 +155,55 @@ p {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+/* End of Search Engine Optimization */
+
+
+/* Start of Online Reputation Management */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Online Reputation Management */
+
+
+/* Start of Social Media Marketing */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Social Media Marketing */
 
+/* Start of Footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +214,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End of Footer */
